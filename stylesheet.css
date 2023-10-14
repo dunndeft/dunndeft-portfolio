@@ -1,0 +1,65 @@
+/* CSS Comment */
+* {box-sizing: border-box}
+
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 100px;
+}
+
+/* header {
+    border-color: aqua;
+    border-style: dotted;
+    border-width: 20px;
+    padding: 20px;
+} */
+
+nav {
+    background-color: firebrick;
+    border-color: black;
+    border-style: dashed;
+    border-width: 5px;
+    padding: 20px;
+}
+
+/* nav ul {
+    display: inline-block;
+    width: 100%
+} */
+
+nav ul li {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dunndeft_logo_icon {
+    width: 100px;
+}
+
+.tagline-1 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    padding-left: 400px;
+}
+
+.home_-_main-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+}
+
+.tagline-2 {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    padding-right: 400px;
+}
+
+.copyright {
+    text-align: center;
+}
